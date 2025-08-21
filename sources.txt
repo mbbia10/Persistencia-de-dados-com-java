@@ -1,0 +1,6 @@
+loja-crud-java1/src/Produto.java
+loja-crud-java1/src/CategoriaDAO.java
+loja-crud-java1/src/Categoria.java
+loja-crud-java1/src/Main.java
+loja-crud-java1/src/Conexao.java
+loja-crud-java1/src/ProdutoDAO.java
